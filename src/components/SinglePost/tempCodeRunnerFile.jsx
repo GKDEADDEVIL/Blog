@@ -1,0 +1,1 @@
+?auto=compress&cs=tinysrgb&dpr=1&w=500
