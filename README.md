@@ -1,7 +1,8 @@
 # A MERN STACK BLOG APPLICATION
-    WITH USERS, DIFF CATEGORIES, AND OWN PERSONAL PROFILE TO CHANGE IT OFTENLY
-    ![image](https://user-images.githubusercontent.com/57728037/161400941-4d453acb-bf5d-4866-a909-6f98a16eb560.png)
-    ![image](https://user-images.githubusercontent.com/57728037/161400958-4ce8d375-e99d-4a88-8b7d-cee8f0bee039.png)
+WITH USERS, DIFF CATEGORIES, AND OWN PERSONAL PROFILE TO CHANGE IT OFTENLY
+
+![image](https://user-images.githubusercontent.com/57728037/161400941-4d453acb-bf5d-4866-a909-6f98a16eb560.png)
+![image](https://user-images.githubusercontent.com/57728037/161400958-4ce8d375-e99d-4a88-8b7d-cee8f0bee039.png)
 
 
 # Blog Page
